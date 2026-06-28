@@ -1,0 +1,11 @@
+# MLP - Monitoring Linux Processes
+# =================================
+# 
+# No external dependencies required!
+# This project uses only Python standard library modules:
+# 
+# - os        : System calls and file operations
+# - time      : Timing and intervals
+# - pwd       : User name resolution
+# 
+# All modules are built-in. No pip install needed!

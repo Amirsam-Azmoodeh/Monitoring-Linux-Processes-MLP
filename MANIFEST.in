@@ -1,0 +1,17 @@
+# MANIFEST.in - Files to include in distribution
+
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include requirements.txt
+
+include mlp.py
+include get_data.py
+include calculate.py
+
+exclude .gitignore
+exclude .pre-commit-config.yaml
+exclude .gitattributes
+exclude *.pyc
+exclude __pycache__

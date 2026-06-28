@@ -1,0 +1,27 @@
+Auto-detect text files and perform LF normalization
+
+    text=auto
+
+Source code
+
+*.py text diff=python
+*.pyi text diff=python
+*.md text diff=markdown
+*.txt text
+*.json text
+*.yaml text
+*.yml text
+*.toml text
+Shell scripts
+
+*.sh text eol=lf
+Keep line endings for Windows scripts
+
+*.bat text eol=crlf
+Binary files
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary
