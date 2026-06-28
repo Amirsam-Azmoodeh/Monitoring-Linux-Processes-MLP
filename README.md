@@ -97,7 +97,7 @@ text
 
 CPU usage is calculated by tracking the difference in CPU time between updates:
 
-```python
+python
 cpu_percent = (cpu_time_diff / real_time_diff) * 100
 
 This is the same method used by top and htop!
