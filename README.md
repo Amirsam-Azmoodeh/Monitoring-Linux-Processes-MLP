@@ -331,34 +331,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-📬 Contact
+## 📬 Contact
 
-Amirsam Azmoodeh
+**Amirsam Azmoodeh**
 
-https://img.shields.io/badge/Email-amirsamazmoodeh%2540gmail.com-red?style=for-the-badge&logo=gmail
-https://img.shields.io/badge/LinkedIn-Amirsam%2520Azmoodeh-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/GitHub-AmirsamAzmoodeh-black?style=for-the-badge&logo=github
-🙏 Acknowledgments
+[![Email](https://img.shields.io/badge/Email-amirsamazmoodeh%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:amirsamazmoodeh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirsam%20Azmoodeh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirsam-azmoodeh)
+[![GitHub](https://img.shields.io/badge/GitHub-AmirsamAzmoodeh-black?style=for-the-badge&logo=github)](https://github.com/Amirsam-Azmoodeh)
 
-    Linux /proc Filesystem - The heart of this tool
+---
 
-    Python Community - For the excellent standard library
+## 🙏 Acknowledgments
 
-    All Contributors - Who help improve this project
+- **Linux `/proc` Filesystem** - The heart of this tool
+- **Python Community** - For the excellent standard library
+- **All Contributors** - Who help improve this project
 
-📚 Further Reading
+---
 
-    Linux /proc Filesystem Documentation
+## 📚 Further Reading
 
-    Understanding Linux Process States
+- [Linux `/proc` Filesystem Documentation](https://www.kernel.org/doc/html/latest/filesystems/proc.html)
+- [Understanding Linux Process States](https://www.baeldung.com/linux/process-states)
+- [Python `os.sysconf()` Documentation](https://docs.python.org/3/library/os.html#os.sysconf)
+- [How `top` Works](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 
-    Python os.sysconf() Documentation
+---
 
-    How top Works
-
-🌟 Show Your Support
+## ⭐ Show Your Support
 
 If you found this project helpful or interesting, please give it a ⭐ on GitHub!
+
+[![Stars](https://img.shields.io/github/stars/Amirsam-Azmoodeh/Monitoring-Linux-Processes-MLP-?style=social)](https://github.com/Amirsam-Azmoodeh/Monitoring-Linux-Processes-MLP-)
+
+---
+
+**Made with ❤️ and ☕ by Amirsam Azmoodeh**
+
+> *"Understanding how your system works is the first step to mastering it!"* 🖥️
 
 https://img.shields.io/github/stars/yourusername/mlp?style=social
 
